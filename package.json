@@ -1,6 +1,6 @@
 {
   "name": "@vpubevo/vpubcore-p2p",
-  "version": "1.1.6",
+  "version": "0.1.1",
   "description": "Interface to the vpub P2P network for Vpubcore",
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
@@ -52,7 +52,7 @@
     "url": "https://github.com/dashevo/dashcore-p2p.git"
   },
   "dependencies": {
-    "@vpubevo/vpubcore-lib": "^1.0.0-alpha.23",
+    "@vpubevo/vpubcore-lib": "^0.1.1",
     "bloom-filter": "^0.2.0",
     "node-buffers": "^0.1.1",
     "socks5-client": "^0.3.6"
