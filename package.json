@@ -1,7 +1,7 @@
 {
-  "name": "@dashevo/dashcore-p2p",
+  "name": "@vpubevo/vpubcore-p2p",
   "version": "1.1.6",
-  "description": "Interface to the dash P2P network for Dashcore",
+  "description": "Interface to the vpub P2P network for Vpubcore",
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
   "scripts": {
@@ -45,14 +45,14 @@
   "keywords": [
     "bitcoin",
     "bitcore",
-    "dashcore"
+    "vpubcore"
   ],
   "repository": {
     "type": "git",
     "url": "https://github.com/dashevo/dashcore-p2p.git"
   },
   "dependencies": {
-    "@dashevo/dashcore-lib": "^1.0.0-alpha.23",
+    "@vpubevo/vpubcore-lib": "^1.0.0-alpha.23",
     "bloom-filter": "^0.2.0",
     "node-buffers": "^0.1.1",
     "socks5-client": "^0.3.6"
